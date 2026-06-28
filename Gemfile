@@ -10,9 +10,9 @@ gem "stimulus-rails"
 gem "jbuilder"
 gem "tzinfo-data", platforms: %i[ windows jruby ]
 
-gem "solid_cache"
-gem "solid_queue"
-gem "solid_cable"
+#gem "solid_cache"
+#gem "solid_queue"
+#gem "solid_cable"
 
 gem "bootsnap", require: false
 gem 'devise', '>= 5.0.4'
